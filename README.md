@@ -19,4 +19,5 @@ Tool Used: Microsoft Power BI
 
 Data Type: Simulated E-commerce transactional data
 
-Visuals: Bar charts, line graphs, maps, KPIs, and tables
+Visuals: Bar charts, line graphs, maps, KPIs, and tables.
+
